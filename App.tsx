@@ -1,9 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native';
+import Button from './components/Button';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+      <Button>Primary Button</Button>
     </View>
   );
 }
