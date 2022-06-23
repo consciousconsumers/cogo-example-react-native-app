@@ -1,0 +1,179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> renders a circular primary button correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#025D69",
+      "borderRadius": 24,
+      "height": 48,
+      "justifyContent": "center",
+      "lineHeight": 24,
+      "opacity": 1,
+      "paddingHorizontal": 0,
+      "paddingVertical": 0,
+      "width": 48,
+    }
+  }
+>
+  <View>
+    <SvgMockDefault
+      height={24}
+      style={
+        Array [
+          Object {
+            "color": "black",
+          },
+          Object {
+            "color": "#ffffff",
+            "fontSize": 18,
+            "lineHeight": 24,
+          },
+        ]
+      }
+      width={24}
+    />
+  </View>
+</View>
+`;
+
+exports[`<Button /> renders a circular secondary button correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#ffffff",
+      "borderColor": "#025D69",
+      "borderRadius": 24,
+      "borderWidth": 1,
+      "height": 48,
+      "justifyContent": "center",
+      "lineHeight": 24,
+      "opacity": 1,
+      "paddingHorizontal": 0,
+      "paddingVertical": 0,
+      "width": 48,
+    }
+  }
+>
+  <View>
+    <SvgMockDefault
+      height={24}
+      style={
+        Array [
+          Object {
+            "color": "black",
+          },
+          Object {
+            "color": "#025D69",
+            "fontSize": 18,
+            "lineHeight": 24,
+          },
+        ]
+      }
+      width={24}
+    />
+  </View>
+</View>
+`;
+
+exports[`<Button /> renders a default button correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#025D69",
+      "borderRadius": 24,
+      "lineHeight": 24,
+      "opacity": 1,
+      "paddingHorizontal": 24,
+      "paddingVertical": 12,
+      "width": "auto",
+    }
+  }
+/>
+`;
+
+exports[`<Button /> renders a primary button correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#025D69",
+      "borderRadius": 24,
+      "lineHeight": 24,
+      "opacity": 1,
+      "paddingHorizontal": 24,
+      "paddingVertical": 12,
+      "width": "auto",
+    }
+  }
+/>
+`;
+
+exports[`<Button /> renders a secondary button correctly 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "borderColor": "#025D69",
+      "borderRadius": 24,
+      "borderWidth": 1,
+      "lineHeight": 24,
+      "opacity": 1,
+      "paddingHorizontal": 24,
+      "paddingVertical": 12,
+      "width": "auto",
+    }
+  }
+/>
+`;
