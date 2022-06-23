@@ -1,5 +1,7 @@
 # Cogo Example React Native App
 
+This app has very little functionality, but just a few components, `Button` and `Icon`. Example use cases of the `Button` component are included in the main `App.tsx` file for reference, and displayed when the app loads.
+
 ## Installation
 
 You will need [Node.js](https://nodejs.org/en/) installed.
@@ -22,7 +24,7 @@ $ npm start
 
 ## Test
 
-You can run the test with:
+You can run the tests with:
 
 ```bash
 $ npm run test
